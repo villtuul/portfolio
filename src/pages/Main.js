@@ -6,7 +6,7 @@ return (
     <>
         <h1>Welcome to the Main Page</h1>
         <p>
-            Click <a href="/text-inputs">here</a> to go to the Text Inputs page.
+            Click <a href="/portfolio/text-inputs">here</a> to go to the Text Inputs page.
         </p>
     </>
     )
