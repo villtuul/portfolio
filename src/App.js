@@ -7,7 +7,6 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<Main />}/>
-      <Route index element={<Main />} />
       <Route path="/text-inputs" element={<TextInputs />} />
     </Routes>
   );
