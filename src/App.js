@@ -7,7 +7,7 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<Main />}/>
-      <Route path="/portfolio/text-inputs" element={<TextInputs />} />
+      <Route path="/text-inputs" element={<TextInputs />} />
     </Routes>
   );
 }
